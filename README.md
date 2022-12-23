@@ -49,3 +49,10 @@ $ git push
 # Borramos la rama finalizada
 $ git branch -d TareaA
 ```
+
+**3. Resolver conflictos rama Tarea C**
+
+![](imgs/conflicto.jpg)
+
+Así resolvemos el conflicto a la hora de hacer push en el repositorio sin haber hecho pull antes.
+
