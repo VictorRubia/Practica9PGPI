@@ -52,7 +52,16 @@ $ git branch -d TareaA
 
 **3. Resolver conflictos rama Tarea C**
 
-![](imgs/conflicto.jpg)
+![imagen](imgs/conflicto.jpg)
 
 Así resolvemos el conflicto a la hora de hacer push en el repositorio sin haber hecho pull antes.
 
+**4. Versión del software**
+
+Ejecutamos el siguiente comando
+
+```bash
+$ git tag v1.0.0
+```
+
+![imagen](/imgs/tag.png)
