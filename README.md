@@ -27,7 +27,21 @@ En la rama Tarea A y Tarea B se han creado los archivos correspondientes a las T
 Los comandos realizados para unirlos a la rama main son los siguientes
 
 ```bash
+# Añadimos los nuevos archivos creados en la rama 
+$ git add * 
+$ git commit -m "comentario" 
+$ git push 
+# Cambiamos a la rama develop para ponerla al día 
 $ git checkout main
-$ git pull main 
-$ git merge
+$ git pull 
+# Volvemos a nuestra rama para ponerla al día 
+$ git checkout TareaA
+$ git rebase main
+$ git push 
+# Finalmente unimos la rama desde develop 
+$ git checkout main
+$ git merge TareaA
+$ git push
+# Borramos la rama finalizada
+$ git branch -d TareaA
 ```
