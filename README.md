@@ -14,6 +14,10 @@ Víctor Machado Fernández
 
 Sergio Mesas Yélamos
 
+### Responsable de tarea C
+
+Víctor José Rubia López
+
 ## Realización de tareas
 
 **1. Ramas existentes**:
