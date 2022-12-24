@@ -65,3 +65,13 @@ $ git tag v1.0.0
 ```
 
 ![imagen](/imgs/tag.png)
+
+**5. Proyecto de Jira - Resolución de incidencia**
+
+![imagen](/imgs/incidencia1.PNG)
+
+![imagen](/imgs/incidencia2.PNG)
+
+![imagen](/imgs/incidencia3.PNG)
+
+![imagen](/imgs/incidencia4.PNG)
