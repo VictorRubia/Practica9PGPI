@@ -1,0 +1,1 @@
+Simulación de commit para resolver la incidencia creada desde el proyecto de Jira.
